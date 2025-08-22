@@ -1,6 +1,6 @@
 
 <h3 align="center">Welcome to my GitHub profile :3</h3>
-![Image Alt](https://github.com/gnahk66/gnahk66/blob/main/violet_evergarden_by_wabisabiwonders_dg2k4ip-fullview.jpg?raw=true)
+![image alt](https://github.com/gnahk66/gnahk66/blob/main/violet_evergarden_by_wabisabiwonders_dg2k4ip-fullview.jpg?raw=true)
 <p align="center">i'm a ☆marvelous☆ cyber sec student and a wannabe pen-tester (＾-＾)＿日 </p>
  📚 Cyber Security student @ Deakin University  <br> 🖥️ Passionate about **network security, digital forensics, and system hardening**  <br> 🔍 Interested in **penetration testing, IDS/IPS, and secure software design**  <br> 🛠️ Currently learning: **Linux, Snort IDS, Wireshark, Metasploit, and Web App Security**  <br> 🎯 Goal: Become a **Security Analyst / Penetration Tester**  
 <br>
