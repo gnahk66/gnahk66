@@ -1,8 +1,9 @@
 
-<h3 align="center">welcome to my GitHub profile :3</h3>
+<h3 align="center">Welcome to my GitHub profile :3</h3>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 <br>
+<p align="center">i'm a ☆marvelous☆ cyber sec student and a wannabe pen-tester (＾-＾)＿日 </p>
 # 💫 About Me:
  📚 Cyber Security student @ Deakin University  <br> 🖥️ Passionate about **network security, digital forensics, and system hardening**  <br> 🔍 Interested in **penetration testing, IDS/IPS, and secure software design**  <br> 🛠️ Currently learning: **Linux, Snort IDS, Wireshark, Metasploit, and Web App Security**  <br> 🎯 Goal: Become a **Security Analyst / Penetration Tester**  
 
