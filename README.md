@@ -1,12 +1,11 @@
 
 <h3 align="center">Welcome to my GitHub profile :3</h3>
+![Image Alt]([image_url](https://github.com/gnahk66/gnahk66/blob/main/violet_evergarden_by_wabisabiwonders_dg2k4ip-fullview.jpg?raw=true))
+<p align="center">i'm a ☆marvelous☆ cyber sec student and a wannabe pen-tester (＾-＾)＿日 </p>
+ 📚 Cyber Security student @ Deakin University  <br> 🖥️ Passionate about **network security, digital forensics, and system hardening**  <br> 🔍 Interested in **penetration testing, IDS/IPS, and secure software design**  <br> 🛠️ Currently learning: **Linux, Snort IDS, Wireshark, Metasploit, and Web App Security**  <br> 🎯 Goal: Become a **Security Analyst / Penetration Tester**  
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 <br>
-<p align="center">i'm a ☆marvelous☆ cyber sec student and a wannabe pen-tester (＾-＾)＿日 </p>
- 📚 Cyber Security student @ Deakin University  <br> 🖥️ Passionate about **network security, digital forensics, and system hardening**  <br> 🔍 Interested in **penetration testing, IDS/IPS, and secure software design**  <br> 🛠️ Currently learning: **Linux, Snort IDS, Wireshark, Metasploit, and Web App Security**  <br> 🎯 Goal: Become a **Security Analyst / Penetration Tester**  
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/truong.vinhkhang.609/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/disizgnahk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaelen-truong-37a297357/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gnahkk66) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KaelenTruong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:truongvinhkhang0609@gmail.com) 
 
