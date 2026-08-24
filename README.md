@@ -2,7 +2,7 @@
 
 [![image alt](https://github.com/gnahk66/gnahk66/blob/main/violet_evergarden_by_wabisabiwonders_dg2k4ip-fullview.jpg?raw=true)](https://github.com/gnahk66/gnahk66/blob/main/violet_evergarden_by_wabisabiwonders_dg2k4ip-fullview.jpg?raw=true)
 
-<p align="center">i'm a ☆marvelous☆ cyber sec student and a wannabe pen-tester (＾-＾)＿日 </p>
+<p align="center">i'm just a cyber sec student(＾-＾)＿日 </p>
 
 📚 Cyber Security student @ Deakin University  
 🖥️ Passionate about **network security, digital forensics, and system hardening**  
